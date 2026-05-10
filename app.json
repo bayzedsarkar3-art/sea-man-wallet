@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "SeaMan Wallet",
+    "slug": "sea-man-wallet",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.bayz.seamanwallet"
+    }
+  }
+}
